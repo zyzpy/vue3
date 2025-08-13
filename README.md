@@ -1,4 +1,4 @@
-<img width="1319" height="775" alt="image" src="https://github.com/user-attachments/assets/a616c91d-f45e-4b1e-a800-7890e00a3efe" />
+
 ---
 
 # Vue3 面包屑 + 多页签导航基础框架说明（初学者练习用）
@@ -24,6 +24,9 @@
 * **组件复用**：提高代码复用率和可维护性
 
 ---
+
+<img width="1319" height="775" alt="image" src="https://github.com/user-attachments/assets/a616c91d-f45e-4b1e-a800-7890e00a3efe" />
+<img width="1314" height="763" alt="image" src="https://github.com/user-attachments/assets/c39fffc5-1f84-4fb6-a4f8-448bb1c1b54a" />
 
 
 
