@@ -4,8 +4,8 @@
       class="nav-sidebar"
   >
     <div class="system-logo" :class="{ 'logo-collapse': isCollapse }">
-      <span v-if="!isCollapse" class="logo-text">易创盈办公系统</span>
-      <span v-else class="logo-text">易</span>
+      <span v-if="!isCollapse" class="logo-text">宁采臣办公系统</span>
+      <span v-else class="logo-text">宁</span>
     </div>
 
     <el-menu
